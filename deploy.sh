@@ -10,11 +10,10 @@ cd ..
 
 cd adityasapate.github.io
 
-cp -av /Users/chengjun/github/mywebsite-hugo/public/* .
-
+cp -av ./../mywebsite-hugo/public/* .
 
 # Add changes to git.
-git add -A
+git add --all
 
 # Commit changes.
 msg="rebuilding site `date`"
@@ -24,7 +23,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push -u origin master
 
 # Come Back
 cd ..
