@@ -27,3 +27,12 @@ git push -u origin master
 
 # Come Back
 cd ..
+
+cd mywebsite-hugo
+
+git add --all
+
+git commit -m "$msg"
+
+# Push source and build repos.
+git push -u origin master
