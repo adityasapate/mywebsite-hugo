@@ -41,10 +41,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Aditya Sapate"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Aditya Sapate is a MBA graduate from IIM Lucknow and Engineering graduate in Computer Science from IIT, Madras with a combined experience of Two years in FMCD and E-commerce businesses in India. Skilled in domains of Growth strategy, Business development, B2B sales, and Program management."
 
 ############################
 ## Site Features
@@ -67,7 +67,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
+privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
