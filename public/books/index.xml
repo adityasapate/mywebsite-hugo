@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books | Aditya Sapate</title>
+    <link>https://adityasapate.github.io/books/</link>
+      <atom:link href="https://adityasapate.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <description>Books</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Aditya Sapate</copyright><lastBuildDate>Mon, 20 Jul 2020 18:21:19 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Books</title>
+      <link>https://adityasapate.github.io/books/</link>
+    </image>
+    
+    <item>
+      <title>Ikigai</title>
+      <link>https://adityasapate.github.io/books/ikigai/</link>
+      <pubDate>Mon, 20 Jul 2020 18:21:19 +0530</pubDate>
+      <guid>https://adityasapate.github.io/books/ikigai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hector Garcia Puigcerver | Aditya Sapate</title>
+    <link>https://adityasapate.github.io/author/hector-garcia-puigcerver/</link>
+      <atom:link href="https://adityasapate.github.io/author/hector-garcia-puigcerver/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hector Garcia Puigcerver</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Aditya Sapate</copyright><lastBuildDate>Mon, 20 Jul 2020 18:21:19 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hector Garcia Puigcerver</title>
+      <link>https://adityasapate.github.io/author/hector-garcia-puigcerver/</link>
+    </image>
+    
+    <item>
+      <title>Ikigai</title>
+      <link>https://adityasapate.github.io/books/ikigai/</link>
+      <pubDate>Mon, 20 Jul 2020 18:21:19 +0530</pubDate>
+      <guid>https://adityasapate.github.io/books/ikigai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
