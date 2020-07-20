@@ -41,8 +41,14 @@ date_format = "Jan 2006"
   company = "Group M"
   company_url = ""
   location = "Mumbai, India"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-04-01"
+  date_end = "2017-05-31"
+  description = """
+  Empirical Study of Mood Planning:
+  
+  * Devised media investment strategy by analysing 1 year’s location based consumer mood patterns over social media
+  * Designed a framework to enhance adoption of a tool used to improve media investment planning efficiency
+  * Designed & implemented brand recall survey of a leading FMCG brand; 100+responses from Live Mall Interviews
+  """
 
 +++
